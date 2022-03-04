@@ -3,6 +3,6 @@
 ### Installation & Development
 
 ```bash
-yarn install
-yarn dev
+npm install
+npm run dev
 ```
